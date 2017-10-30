@@ -1,20 +1,38 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [MacDown](https://macdown.uranusjr.com)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [MacDown](https://macdown.uranusjr.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+### Install using Git
+
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+```
+$ git clone https://github.com/arandilopez/iterm.git
+```
+
+### Install manually
+
+Download using the GitHub .zip download option and unzip them.
+
+### Activating theme
+
+1. Go to: MacDown > Preferences > Editor
+2. Press reveal button
+3. Copy Dracula.style file into Themes directory
+4. Press reload button
+5. On Theme option select Dracula
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Arandi López](https://avatars3.githubusercontent.com/u/2985233?v=3&s=70)](https://github.com/JimmyMultani) |
+--- |
+[Arandi López](https://github.com/arandilopez) |
 
 ## License
 
