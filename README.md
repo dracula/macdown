@@ -2,7 +2,7 @@
 
 > A dark theme for [MacDown](https://macdown.uranusjr.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/macdown.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
